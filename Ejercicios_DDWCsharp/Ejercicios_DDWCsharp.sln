@@ -5,6 +5,20 @@ VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicios_DDWCsharp", "Ejercicios_DDWCsharp\Ejercicios_DDWCsharp.csproj", "{CE2AFA77-A91F-48CD-ACBA-C248B9C75348}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoHorasTrabajadas", "CalculoHorasTrabajadas\CalculoHorasTrabajadas.csproj", "{BD436995-B008-426C-8BE3-5A7285F6E5FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoSuperficieCuadrado", "CalculoSuperficieCuadrado\CalculoSuperficieCuadrado.csproj", "{0CADFBF5-8A9A-4C84-AD29-A0F0EF69BC2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CambioMonedas", "CambioMonedas\CambioMonedas.csproj", "{AFED1816-C068-48DF-87FB-FB96FAE25812}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlArticulos", "ControlArticulos\ControlArticulos.csproj", "{C5A66C4F-0580-4902-A16E-02BCA8D3132D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefiniendoSumMultDivicion", "DefiniendoSumMultDivicion\DefiniendoSumMultDivicion.csproj", "{6130CCFF-0750-4870-B3D0-7BD39C25279C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumMult_DOSNumeros", "SumMult_DOSNumeros\SumMult_DOSNumeros.csproj", "{1D8A46B7-3440-48A6-94CD-5104E70099F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VarOperacionesAritmeticas", "VarOperacionesAritmeticas\VarOperacionesAritmeticas.csproj", "{219B3412-1BF0-45CF-969E-6D634B78F4EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +29,34 @@ Global
 		{CE2AFA77-A91F-48CD-ACBA-C248B9C75348}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE2AFA77-A91F-48CD-ACBA-C248B9C75348}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE2AFA77-A91F-48CD-ACBA-C248B9C75348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD436995-B008-426C-8BE3-5A7285F6E5FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD436995-B008-426C-8BE3-5A7285F6E5FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD436995-B008-426C-8BE3-5A7285F6E5FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD436995-B008-426C-8BE3-5A7285F6E5FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CADFBF5-8A9A-4C84-AD29-A0F0EF69BC2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CADFBF5-8A9A-4C84-AD29-A0F0EF69BC2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CADFBF5-8A9A-4C84-AD29-A0F0EF69BC2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CADFBF5-8A9A-4C84-AD29-A0F0EF69BC2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFED1816-C068-48DF-87FB-FB96FAE25812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFED1816-C068-48DF-87FB-FB96FAE25812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFED1816-C068-48DF-87FB-FB96FAE25812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFED1816-C068-48DF-87FB-FB96FAE25812}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5A66C4F-0580-4902-A16E-02BCA8D3132D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5A66C4F-0580-4902-A16E-02BCA8D3132D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5A66C4F-0580-4902-A16E-02BCA8D3132D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5A66C4F-0580-4902-A16E-02BCA8D3132D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6130CCFF-0750-4870-B3D0-7BD39C25279C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6130CCFF-0750-4870-B3D0-7BD39C25279C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6130CCFF-0750-4870-B3D0-7BD39C25279C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6130CCFF-0750-4870-B3D0-7BD39C25279C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D8A46B7-3440-48A6-94CD-5104E70099F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D8A46B7-3440-48A6-94CD-5104E70099F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D8A46B7-3440-48A6-94CD-5104E70099F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D8A46B7-3440-48A6-94CD-5104E70099F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{219B3412-1BF0-45CF-969E-6D634B78F4EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219B3412-1BF0-45CF-969E-6D634B78F4EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219B3412-1BF0-45CF-969E-6D634B78F4EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219B3412-1BF0-45CF-969E-6D634B78F4EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
